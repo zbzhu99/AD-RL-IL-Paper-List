@@ -6,7 +6,7 @@ This paper collection about autonomous driving particularly focuses on reinforce
 
 * <[A survey of deep learning techniques for autonomous driving](https://arxiv.org/pdf/1910.07738)> by Sorin Grigorescu, Bogdan Trasnea, Tiberiu Cocias and Gigel Macesanu, 2020.
 
-* <[Deep reinforcement learning for autonomous driving: A survey](https://arxiv.org/pdf/2002.00444)> by B Ravi Kiran1, Ibrahim Sobh, Victor Talpaert, Patrick Mannion, Ahmad A. Al Sallab, Senthil Yogamani and Patrick Pérez, 2020.
+* <[Deep reinforcement learning for autonomous driving: A survey](https://arxiv.org/pdf/2002.00444)> by B Ravi Kiran, Ibrahim Sobh, Victor Talpaert, Patrick Mannion, Ahmad A. Al Sallab, Senthil Yogamani and Patrick Pérez, 2020.
 
 * <[A Survey of State-Action Representations for Autonomous Driving](https://hal.archives-ouvertes.fr/hal-01908175/document)> by Edouard Leurent, 2018.
 
@@ -70,7 +70,7 @@ This paper collection about autonomous driving particularly focuses on reinforce
 
 * **[AIRSIM]** <[Airsim: High-fidelity visual and physical simulation for autonomous vehicles](https://arxiv.org/pdf/1705.05065.pdf%20http://arxiv.org/abs/1705.05065)> by Shital Shah1, Debadeepta Dey, Chris Lovett and Ashish Kapoor, 2018.
 
-* **[CARLA]** <[CARLA: An open urban driving simulator](https://arxiv.org/pdf/1711.03938)> by Alexey Dosovitskiy1, German Ros, Felipe Codevilla1, Antonio L´opez, and Vladlen Koltun, 2017.
+* **[CARLA]** <[CARLA: An open urban driving simulator](https://arxiv.org/pdf/1711.03938)> by Alexey Dosovitskiy, German Ros, Felipe Codevilla, Antonio L´opez, and Vladlen Koltun, 2017.
 
 * **[TORCS]** <[Torcs, the open racing car simulator](https://pdfs.semanticscholar.org/b9c4/d931665ec87c16fcd44cae8fdaec1215e81e.pdf)> by Bernhard Wymann, Christos Dimitrakakis, Andrew Sumner, Eric Espi´e and Christophe Guionneau, 2000.
 
