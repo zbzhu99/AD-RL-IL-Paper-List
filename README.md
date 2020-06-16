@@ -35,7 +35,9 @@ This paper collection about autonomous driving particularly focuses on reinforce
 
 * <[BARK: Open Behavior Benchmarking in Multi-Agent Environments](https://arxiv.org/pdf/2003.02604)> by Julian Bernhard, Klemens Esterle, Patrick Hart and Tobias Kessler, 2020.
 
-* <[Social behavior for autonomous vehicles](https://www.pnas.org/content/pnas/116/50/24972.full.pdf)> by Wilko Schwartinga, Alyssa Piersona, Javier Alonso-Morab, Sertac Karamanc, and Daniela Rus, 2019.
+* <[Social behavior for autonomous vehicles](https://www.pnas.org/content/pnas/116/50/24972.full.pdf)> by Wilko Schwartinga, Alyssa Piersona, Javier Alonso-Morab, Sertac Karamanc and Daniela Rus, 2019.
+
+* <[Model-free deep reinforcement learning for urban autonomous driving](https://arxiv.org/pdf/1904.09503)> by Jianyu Chen, Bodi Yuan and Masayoshi Tomizuka, 2019.
 
 * <[Safe, multi-agent, reinforcement learning for autonomous driving](https://arxiv.org/pdf/1610.03295)> by Shai Shalev-Shwartz, Shaked Shammah and Amnon Shashua, 2016.
 
