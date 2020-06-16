@@ -14,8 +14,6 @@ This paper collection about autonomous driving particularly focuses on reinforce
 
 * <[Perception, planning, control, and coordination for autonomous vehicles](https://www.mdpi.com/2075-1702/5/1/6/pdf)> by Scott Drew Pendleton, Hans Andersen, Xinxin Du, Xiaotong Shen, Malika Meghjani, You Hong Eng, Daniela Rus and Marcelo H. Ang Jr, 2017.
 
-* <[Autonomous agents modelling other agents: A comprehensive survey and open problems](https://arxiv.org/pdf/1709.08071)> by Stefano V. Albrecht and Peter Stone, 2017.
-
 ## Reinforcement learning
 
 ### Single-agent
