@@ -10,9 +10,11 @@ This paper collection about autonomous driving particularly focuses on reinforce
 
 * <[A Survey of State-Action Representations for Autonomous Driving](https://hal.archives-ouvertes.fr/hal-01908175/document)> by Edouard Leurent, 2018.
 
-* <[Planning and decision-making for autonomous vehicles](https://www.annualreviews.org/doi/full/10.1146/annurev-control-060117-105157)> by Wilko Schwarting, Javier Alonso-Mora, and Daniela Rus, 2018.
+* <[Planning and decision-making for autonomous vehicles](https://www.annualreviews.org/doi/full/10.1146/annurev-control-060117-105157)> by Wilko Schwarting, Javier Alonso-Mora and Daniela Rus, 2018.
 
 * <[Perception, planning, control, and coordination for autonomous vehicles](https://www.mdpi.com/2075-1702/5/1/6/pdf)> by Scott Drew Pendleton, Hans Andersen, Xinxin Du, Xiaotong Shen, Malika Meghjani, You Hong Eng, Daniela Rus and Marcelo H. Ang Jr, 2017.
+
+* <[Autonomous agents modelling other agents: A comprehensive survey and open problems](https://arxiv.org/pdf/1709.08071)> by Stefano V. Albrecht and Peter Stone, 2017.
 
 ## Reinforcement learning
 
