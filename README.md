@@ -59,6 +59,8 @@ This paper collection about autonomous driving particularly focuses on reinforce
 
 * <[Simulating emergent properties of human driving behavior using multi-agent reward augmented imitation learning](https://arxiv.org/pdf/1903.05766)> by Raunak P. Bhattacharyya, Derek J. Phillips, Changliu Liu, Jayesh K. Gupta, Katherine Driggs-Campbell, and Mykel J. Kochenderfer, 2019.
 
+* <[AGen: Adaptable generative prediction networks for autonomous driving](https://www.cs.cmu.edu/~cliu6/files/iv19-1.pdf)> by Wenwen Si, Tianhao Wei and Changliu Liu, 2019.
+
 * <[Multi-agent imitation learning for driving simulation](https://arxiv.org/pdf/1803.01044)> by Raunak P. Bhattacharyya, Derek J. Phillips, Blake Wulfe, Jeremy Morton, Alex Kuefler and Mykel J. Kochenderfer, 2018.
 
 
