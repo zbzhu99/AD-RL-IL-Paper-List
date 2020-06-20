@@ -22,6 +22,8 @@ This paper collection about autonomous driving particularly focuses on reinforce
 
 * <[End-to-end race driving with deep reinforcement learning](https://arxiv.org/pdf/1807.02371)> by Maximilian Jaritz, Raoul de Charette, Marin Toromanoff, Etienne Perot and Fawzi Nashashibi, 2018.
 
+* <[Navigating occluded intersections with autonomous vehicles using deep reinforcement learning](https://arxiv.org/pdf/1705.01196.pdf?source=post_page)> by David Isele, Reza Rahimi, Akansel Cosgun, Kaushik Subramanian and Kikuo Fujimura, 2018.
+
 * <[Grid path planning with deep reinforcement learning: Preliminary results](https://www.sciencedirect.com/science/article/pii/S1877050918300553/pdf?md5=c81a3c0400e7d86dbeabca22f193b672&pid=1-s2.0-S1877050918300553-main.pdf&_valck=1)> by Aleksandr I. Panov, Konstantin S. Yakovlev and Roman Suvorov, 2018.
 
 * <[Intelligent land-vehicle model transfer trajectory planning method based on deep reinforcement learning](https://www.mdpi.com/1424-8220/18/9/2905/pdf)> by Lingli Yu, Xuanya Shao, Yadong Wei and Kaijun Zhou, 2018.
